@@ -7,4 +7,4 @@ This is a solution to the [Github Deployment Workflow](https://roadmap.sh/projec
 - Simple HTML page as the content for the GitHub Pages site.
 
 ## Project URL
-Find the project requirements here: https://roadmap.sh/projects/ggithub-actions-deployment-workflow
+Find the project requirements here: https://roadmap.sh/projects/github-actions-deployment-workflow
