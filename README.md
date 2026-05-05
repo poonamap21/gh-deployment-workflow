@@ -1,4 +1,4 @@
-# gh deployment workflow
+# GitHub Pages Deployment
 
 This is a solution to the [Github Deployment Workflow](https://roadmap.sh/projects/github-actions-deployment-workflow) challenge from [roadmap.sh](https://roadmap.sh).
 
