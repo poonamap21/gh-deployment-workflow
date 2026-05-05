@@ -6,6 +6,6 @@ This is a solution to the [Github Deployment Workflow](https://roadmap.sh/projec
 - Automated deployment to GitHub Pages using GitHub Actions.
 - Simple HTML page as the content for the GitHub Pages site.
 
-## Project URL
+## Project page URL
 Find the project requirements here: 
 https://roadmap.sh/projects/github-actions-deployment-workflow
